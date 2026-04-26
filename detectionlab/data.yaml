@@ -1,0 +1,8 @@
+names:
+- table
+- image_large_symbol
+- image_icon
+nc: 3
+path: /root/lab_ivan/detectionlab/yolo_dataset_augmented
+train: images/train
+val: images/train
