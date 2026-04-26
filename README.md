@@ -29,12 +29,4 @@ This repository serves as a **read-only reference resource**. It is meant to:
 
 You are welcome to browse, fork, or clone this repository for **personal learning and reference only**. If you adapt any part of this code for your own project, please ensure you fully understand and test it in your own environment.
 
----
-
-## License
-
-Please refer to the [LICENSE](./LICENSE) file if present. If no license is specified, all rights are reserved and the code should be treated as proprietary.
-
----
-
 *Last updated: April 2026*
